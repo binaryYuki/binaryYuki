@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### Welcome! ⚡
 <!--
 **TonyHuang0711/TonyHuang0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="25"/></code>
 -->
-**Exploring:** 
+**I'm Now Exploring:** 
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="25"/></code>
