@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding+as+art+%2C+keep+learning+%2C+keep+updated;Never+give+up+your+dreams)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding+as+art+%2C+keep+learning+;Never+give+up+your+dreams;Keep+yourself+updated)](https://git.io/typing-svg)
 ### Hi there 👋
 ### Welcome! ⚡
 <!--
