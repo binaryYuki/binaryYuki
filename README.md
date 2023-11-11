@@ -5,6 +5,8 @@
 ### Hi there 👋
 ### Welcome! ⚡
 
+[![][github-star]][github-link]
+
 - 🔭 I’m currently working on python web dev
 - 🌱 I’m currently learning nodejs
 <!--
