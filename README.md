@@ -10,7 +10,6 @@
 Empowering my own dreams in coding.
 
 [![][vercel-shield]][vercel-link]
-[![][discord-shield]][discord-link]
 [![][github-star]][github-link]
 [![build-release](https://github.com/binary-yuki/gpt_academic/actions/workflows/docker-image.yml/badge.svg)](https://github.com/binary-yuki/gpt_academic/actions/workflows/docker-image.yml)
 
