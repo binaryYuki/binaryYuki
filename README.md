@@ -27,26 +27,13 @@ Empowering my own dreams in coding.
 
 #### I'm a passionate developer and tech enthusiast who loves to explore new technologies and build cool stuff.
 
+<img align='right' src='https://counter.seku.su/c302?' width='400px'>
+
 - 🔭 I’m currently working on python web dev
 - 🌱 I’m currently learning nodejs
-<!--
-**TonyHuang0711/TonyHuang0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binary-yuki&layout=compact&exclude_repo=doubi,typecho-theme-handsome-docs,GoogleTranslate,typecho-theme-handsome-opensource,luci-app-aliddns)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align='right' src='https://counter.seku.su/c302?' width='400px'>
 
 
 **Skills**
@@ -71,7 +58,6 @@ I'm currently exploring:
 - Sass <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="25"/></code>
 - Vue.js <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" height="25"/></code>
 - Webpack <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" height="25"/></code>
-- Node.js <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="25"/></code>
 
 
 <!-- LINK GROUP -->
@@ -80,5 +66,5 @@ I'm currently exploring:
 [vercel-link]: https://chat-preview.lobehub.com
 [vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fchat-preview.lobehub.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-yuki&count_private=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-yuki&count_private=true&theme=radical) -->
 
