@@ -13,7 +13,7 @@ Empowering my own dreams in coding.
 
 [![][vercel-shield]][vercel-link]
 [![][github-star]][github-link]
-[![build-release](https://github.com/binary-yuki/gpt_academic/actions/workflows/docker-image.yml/badge.svg)](https://github.com/binary-yuki/gpt_academic/actions/workflows/docker-image.yml)
+![build-release](https://status.tzpro.xyz/api/badge/1/status?upLabel=Running&downLabel=%3CdownLabel%3E)
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
