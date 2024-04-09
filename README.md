@@ -66,5 +66,5 @@ I'm currently exploring:
 [vercel-link]: https://chat-preview.lobehub.com
 [vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fchat-preview.lobehub.com
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-yuki&count_private=true&theme=radical) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryyuki&count_private=true&theme=radical) -->
 
