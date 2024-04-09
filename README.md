@@ -32,7 +32,7 @@ Empowering my own dreams in coding.
 - 🔭 I’m currently working on python web dev
 - 🌱 I’m currently learning nodejs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binary-yuki&layout=compact&exclude_repo=doubi,typecho-theme-handsome-docs,GoogleTranslate,typecho-theme-handsome-opensource,luci-app-aliddns)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryYuki&layout=compact&exclude_repo=doubi,typecho-theme-handsome-docs,GoogleTranslate,typecho-theme-handsome-opensource,luci-app-aliddns)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
