@@ -6,7 +6,8 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4">
-  <img height="190" src="https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4">
+<!--   <img height="190" src="https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4"> -->
+  <img height="190" src="[https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4](https://camo.githubusercontent.com/0c458bd63e840f9eb05c934d71d475b0c9ecfa9fa11b0cf63c9f3b05a97e78c0/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303231303430373231323032313637322e676966237069635f63656e746572)">
 </picture>
 
 Empowering my own dreams in coding.
