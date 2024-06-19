@@ -64,7 +64,7 @@ I'm currently exploring:
 [github-link]: https://github.com/lobehub
 [github-star]: https://img.shields.io/github/stars/lobehub?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [vercel-link]: https://chat.tzpro.xyz
-[vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fchat-preview.lobehub.com
+[vercel-shield]: https://img.shields.io/website?down_message=offline&label=chatbot&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fchat.tzpro.xyz
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryyuki&count_private=true&theme=radical) -->
 
