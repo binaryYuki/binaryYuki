@@ -23,9 +23,16 @@ Empowering my own dreams in coding.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding+as+art+%2C+keep+learning+;Never+give+up+your+dreams;Keep+yourself+updated)](https://git.io/typing-svg)
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Swimming+in+the+ocean+of+binary)](https://git.io/typing-svg)
-### Hi 👋
 
-#### I'm a passionate developer and tech enthusiast who loves to explore new technologies and build cool stuff.
+# 🎉 Hi!
+I am a university student with a current interest in the application and development of LLM，I am also a passionate developer and tech enthusiast who loves to explore new technologies and build cool stuff.
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,raspberrypi,ubuntu,vscode,pr,bash,git,docker,anaconda,py,c,cpp," />
+  </a>
+</p>
 
 <img align='right' src='https://counter.seku.su/c302?' width='400px'>
 
