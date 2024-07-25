@@ -11,10 +11,6 @@
 
 Empowering my own dreams in coding.
 
-[![][vercel-shield]][vercel-link]
-[![][github-star]][github-link]
-![build-release](https://status.tzpro.xyz/api/badge/1/status?upLabel=Running&downLabel=%3CdownLabel%3E)
-
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 </div>
@@ -33,12 +29,6 @@ I am a university student with a current interest in the application and develop
     <img src="https://skillicons.dev/icons?i=apple,azure,bash,bun,cpp,c,git,fastapi,nextjs,docker,anaconda,linux,py,ubuntu,go" />
   </a>
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryYuki&layout=compact&exclude_repo=doubi,typecho-theme-handsome-docs,GoogleTranslate,typecho-theme-handsome-opensource,luci-app-aliddns)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 <!-- LINK GROUP -->
