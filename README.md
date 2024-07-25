@@ -30,7 +30,7 @@ I am a university student with a current interest in the application and develop
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,raspberrypi,ubuntu,vscode,pr,bash,git,docker,anaconda,py,c,cpp," />
+    <img src="https://skillicons.dev/icons?i=apple,azure,bash,bun,cpp,c,git,fastapi,nextjs,docker,anaconda,xcode,linux,py,ubuntu,raspberrypi" />
   </a>
 </p>
 
