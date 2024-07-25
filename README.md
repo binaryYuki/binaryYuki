@@ -34,10 +34,6 @@ I am a university student with a current interest in the application and develop
   </a>
 </p>
 
-<img align='right' src='https://counter.seku.su/c302?' width='400px'>
-
-- 🔭 I’m currently working on python web dev
-- 🌱 I’m currently learning nodejs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryYuki&layout=compact&exclude_repo=doubi,typecho-theme-handsome-docs,GoogleTranslate,typecho-theme-handsome-opensource,luci-app-aliddns)](https://github.com/anuraghazra/github-readme-stats)
 
