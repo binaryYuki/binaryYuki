@@ -6,7 +6,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4">
-  <img height="190" src="https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4">
+<!--   <img height="190" src="https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4"> -->
   </picture>
 
 Empowering my own dreams in coding.
