@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4">
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/60097976?s=400&u=46206cff80830b3e6e2d04154b9c75a0a156c056&v=4"> -->
   <img height="190" src="https://github.com/user-attachments/assets/13204bf9-a5e8-4d71-9099-71b39dca7023">
 <!--   ![5491727620673_ pic](https://github.com/user-attachments/assets/13204bf9-a5e8-4d71-9099-71b39dca7023) -->
 
