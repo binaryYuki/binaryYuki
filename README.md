@@ -11,7 +11,10 @@
 
   </picture>
 
-Empowering my own dreams in coding.
+<p>Empowering my own dreams in coding.</p>
+
+You can each me at 
+**htz@outlook.it**.
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -24,6 +27,16 @@ Empowering my own dreams in coding.
 # 🎉 Hi!
 I am a university student with a current interest in the application and development of LLM，I am also a passionate developer and tech enthusiast who loves to explore new technologies and build cool stuff.
 
+### Take a private job
+UI/backend
+Service O&M
+Web Crawler
+Anything else I might be able to do
+Can send me an email!
+
+### Give me a job!
+I'm currently looking for an internet-related internship in the UK. Any advice or opportunities would be greatly appreciated!
+Feel free to email me!!
 
 <p align="center">
   <a href="https://skillicons.dev">
