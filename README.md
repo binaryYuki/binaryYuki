@@ -28,9 +28,9 @@ You can each me at
 I am a university student with a current interest in the application and development of LLM，I am also a passionate developer and tech enthusiast who loves to explore new technologies and build cool stuff.
 
 ### Take a private job
-UI/backend
-Service O&M
-Web Crawler
+- UI/backend
+- Service O&M
+- Web Crawler
 Anything else I might be able to do
 Can send me an email!
 
