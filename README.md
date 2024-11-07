@@ -8,8 +8,7 @@ I am a university student with a current interest in the application and develop
 - Service O&M
 - Web Crawler
   
-Anything else I might be able to do
-Can send me an email!
+Anything else I might be able to do please send me an email!
 
 ### Give me a job!
 I'm currently looking for an internet-related internship in the UK. Any advice or opportunities would be greatly appreciated!
