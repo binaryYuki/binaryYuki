@@ -22,7 +22,7 @@ Feel free to email me!!
 
 
 <img src="![image](https://github.com/user-attachments/assets/a20361f1-6047-48a7-aeda-5256589c3104)" />
-
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=binaryYuki&theme=react" alt="binaryYuki" width=49.8% /></span>
 
 
 <!-- LINK GROUP -->
