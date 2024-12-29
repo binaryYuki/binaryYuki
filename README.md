@@ -1,7 +1,7 @@
 <img src="https://github.githubassets.com/images/mona-whisper.gif" width="4px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="8px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="16px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="32px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="64px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="128px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="256px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="128px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="64px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="32px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="16px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="8px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="4px">
 <a name="readme-top"></a>
-# 🎉 Hi!
-I am a university student with a current interest in the application and development of LLM，I am also a passionate developer and tech enthusiast who loves to explore new technologies and build cool stuff.
+# Hi there!👋
+I am an university student with a current interest in the application and development of LLM，I am also a passionate developer and tech enthusiast who loves to explore new technologies and build cool stuff.
 
 ### Take a private job
 - UI/backend
