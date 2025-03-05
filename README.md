@@ -23,6 +23,65 @@ Feel free to email me!!
 
 <img src="![image](https://github.com/user-attachments/assets/a20361f1-6047-48a7-aeda-5256589c3104)" />
 
+## 📊 My Achievements 📊
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=binaryyuki&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6AC2&text_color=FFFFFF&icon_color=FF6AC2"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=binaryyuki&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=FF6AC2&icon_color=FF6AC2"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=binaryyuki&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=FF6AC2&icon_color=FF6AC2" alt="Calcium-Ion's GitHub stats" height="170em" />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyuki&layout=compact&theme=radical&hide_border=true&hide=html,css&bg_color=0D1117&title_color=FF6AC2&text_color=FFFFFF"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyuki&layout=compact&theme=buefy&hide_border=true&hide=html,css&title_color=FF6AC2"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyuki&layout=compact&theme=buefy&hide_border=true&hide=html,css&title_color=FF6AC2" alt="Calcium-Ion's most used languages" height="170em" />
+  </picture>
+</div>
+
+
+## 🧸 Tools I Usually Use 🧸
+
+<div align="center">
+  
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 🌈 My Activities 🌈
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=binaryyuki&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6AC2&point=FFFFFF&color=FFFFFF"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=binaryyuki&theme=minimal&hide_border=true&color=FF6AC2&line=FF6AC2&point=FF6AC2"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=binaryyuki&theme=minimal&hide_border=true&color=FF6AC2&line=FF6AC2&point=FF6AC2" alt="Calcium-Ion's contribution graph" />
+  </picture>
+</div>
+
+
 <!-- <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=binaryYuki&theme=react" alt="binaryYuki" width=49.8% /></span>/>
 
 
