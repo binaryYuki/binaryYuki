@@ -1,95 +1,73 @@
-<img src="https://github.githubassets.com/images/mona-whisper.gif" width="4px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="8px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="16px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="32px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="64px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="128px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="256px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="128px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="64px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="32px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="16px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="8px"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="4px">
 <a name="readme-top"></a>
-# Hi there!👋
-I am an university student with a current interest in the application and development of LLM，I am also a passionate developer and tech enthusiast who loves to explore new technologies and build cool stuff.
 
-### Take a private job
-- UI/backend
-- Service O&M
-- Web Crawler
-  
-Anything else I might be able to do please send me an email!
+# Hi there! 👋
+**A university student focused on building reliable AI-backed services.**  
+I ship backend & DevOps work that turns ideas into fast, production-ready systems.  
+**Open to UK internships** (Backend/Platform/Infra).
 
-### Give me a job!
-I'm currently looking for an internet-related internship in the UK. Any advice or opportunities would be greatly appreciated!
-Feel free to email me!!
+[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:hello@catyuki.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/tingzhanghuang/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-success)](https://buckets.catyuki.com/Tingzhang_Huang_Resume.pdf)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,azure,bash,bun,cpp,c,git,fastapi,nextjs,docker,anaconda,linux,py,ubuntu,go" />
-  </a>
+---
+
+## 🚀 What I bring
+- Designed and shipped **LLM-backed advice service** with WebSocket **streaming** responses (p95 < 200ms under load).
+- Built **Go + Gin** microservices with **GORM** & **Atlas migrations**, CI/CD, and blue-green deploys.
+- Hardened edge with **Kong**, **Cloudflare** IP trust chain, and rate limiting; reduced bad traffic by **90%+**.
+- Container-first mindset: **Docker**, **K8s**, HPA, observability, and on-call friendliness.
+
+---
+
+## 🔭 Featured Projects
+### 1) ADHD Advice Streaming Service (Go, WebSockets, LLM)
+Production-style streaming of AI advice after questionnaire; integrated with Next.js results page.  
+`Go · Gin · WebSocket · OpenAI SDK · Postgres · GORM · Atlas`  
+➡️ Demo: [Click Me](https://stay.catyuki.com)
+
+### 2) IP Filtering & Risk Detection API
+Rate limiting, IP validation, and background threat-intel updates, ready-to-subscribe threat cidr list.  
+`Go · Gin · Middleware · Threat Feeds · Cloudflare CIDRs`  
+➡️ Repo: https://github.com/binaryyuki/riskAPI
+
+### 3) AnimeAPI
+A crawler-based rest api that provides anime-related data and m3u8 addresses for developers and hobby projects.  
+`Crawler · REST API · FastApi`  
+➡️ Repo: https://github.com/binaryyuki/animeapi
+
+---
+
+## 🧰 Toolbox
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,java,py,react,nextjs,docker,kubernetes,linux,git,fastapi,redis,postgres,nginx&perline=8" alt="Tech stack icons" />
 </p>
 
+---
 
-<img src="![image](https://github.com/user-attachments/assets/a20361f1-6047-48a7-aeda-5256589c3104)" />
-
-## 📊 My Achievements 📊
-
-<div align="center">
+## 📈 Activity & Stats
+<p align="left">
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=binaryyuki&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6AC2&text_color=FFFFFF&icon_color=FF6AC2"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=binaryyuki&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=FF6AC2&icon_color=FF6AC2"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=binaryyuki&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=FF6AC2&icon_color=FF6AC2" alt="Calcium-Ion's GitHub stats" height="170em" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=binaryyuki&show_icons=true&theme=radical&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=binaryyuki&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
   </picture>
-  
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyuki&layout=compact&theme=radical&hide_border=true&hide=html,css&bg_color=0D1117&title_color=FF6AC2&text_color=FFFFFF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyuki&layout=compact&theme=buefy&hide_border=true&hide=html,css&title_color=FF6AC2"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyuki&layout=compact&theme=buefy&hide_border=true&hide=html,css&title_color=FF6AC2" alt="Calcium-Ion's most used languages" height="170em" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyuki&layout=compact&theme=radical&hide_border=true&hide=html,css" media="(prefers-color-scheme: dark)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyuki&layout=compact&hide_border=true&hide=html,css" alt="Top languages" height="160"/>
   </picture>
-</div>
+</p>
 
+<details>
+  <summary>Contribution graph</summary>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binaryyuki&theme=minimal&hide_border=true" alt="Contribution graph"/>
+</details>
 
-## 🧸 Tools I Usually Use 🧸
+---
 
-<div align="center">
-  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 📬 Get in touch
+- ✉️ hello [at] catyuki [dot] com
+- 💼 UK internship roles (Backend / Platform / AI Infra)
+- 🗓️ Timezone: UK-friendly hours
 
-</div>
+---
 
-## 🌈 My Activities 🌈
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=binaryyuki&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6AC2&point=FFFFFF&color=FFFFFF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=binaryyuki&theme=minimal&hide_border=true&color=FF6AC2&line=FF6AC2&point=FF6AC2"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=binaryyuki&theme=minimal&hide_border=true&color=FF6AC2&line=FF6AC2&point=FF6AC2" alt="Calcium-Ion's contribution graph" />
-  </picture>
-</div>
-
-
-<!-- <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=binaryYuki&theme=react" alt="binaryYuki" width=49.8% /></span>/>
-
-
-<!-- LINK GROUP -->
-[github-link]: https://github.com/lobehub
-[github-star]: https://img.shields.io/github/stars/lobehub?color=ffcb47&labelColor=black&style=flat-square&logo=github
-[vercel-link]: https://chat.tzpro.xyz
-[vercel-shield]: https://img.shields.io/website?down_message=offline&label=chatbot&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fchat.tzpro.xyz
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryyuki&count_private=true&theme=radical) -->
-
+<p align="right">Back to top ↑</p>
