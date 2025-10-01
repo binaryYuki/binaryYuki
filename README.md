@@ -19,24 +19,6 @@ I ship backend & DevOps work that turns ideas into fast, production-ready system
 
 ---
 
-## 🔭 Featured Projects
-### 1) ADHD Advice Streaming Service (Go, WebSockets, LLM)
-Production-style streaming of AI advice after questionnaire; integrated with Next.js results page.  
-`Go · Gin · WebSocket · OpenAI SDK · Postgres · GORM · Atlas`  
-➡️ Demo: [Click Me](https://stay.catyuki.com)
-
-### 2) IP Filtering & Risk Detection API
-Rate limiting, IP validation, and background threat-intel updates, ready-to-subscribe threat cidr list.  
-`Go · Gin · Middleware · Threat Feeds · Cloudflare CIDRs`  
-➡️ Repo: https://github.com/binaryyuki/riskAPI
-
-### 3) AnimeAPI
-A crawler-based rest api that provides anime-related data and m3u8 addresses for developers and hobby projects.  
-`Crawler · REST API · FastApi`  
-➡️ Repo: https://github.com/binaryyuki/animeapi
-
----
-
 ## 🧰 Toolbox
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,java,py,react,nextjs,docker,kubernetes,linux,git,fastapi,redis,postgres,nginx&perline=8" alt="Tech stack icons" />
