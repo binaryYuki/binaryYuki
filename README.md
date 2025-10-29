@@ -21,7 +21,10 @@ I do backend + DevOps work that turns rough ideas into production-grade software
 
 ## 🧰 Toolbox
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,java,py,react,nextjs,docker,kubernetes,linux,git,fastapi,redis,postgres,nginx&perline=8" alt="Tech stack icons" />
+<img 
+  src="https://skillicons.dev/icons?i=go,java,py,cpp,swift,nodejs,react,nextjs,vue,spring,docker,kubernetes,terraform,linux,git,githubactions,redis,postgresql,mysql,nginx,pytorch,aws,azure,gcp&perline=8" 
+  alt="Tech stack icons" 
+/>
 </p>
 
 ---
