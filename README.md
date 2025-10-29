@@ -7,7 +7,7 @@ I ship backend & DevOps work that turns ideas into fast, production-ready system
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:hello@catyuki.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/tingzhanghuang/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-success)]([https://buckets.catyuki.com/cv.pdf](https://cdn.catyuki.com/personal/cv.pdf))
+[![Resume](https://img.shields.io/badge/Resume-PDF-success)[https://cdn.catyuki.com/personal/cv.pdf]
 
 ---
 
