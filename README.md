@@ -1,21 +1,21 @@
 <a name="readme-top"></a>
 
-# Hi there! 👋
-**A university student focused on building reliable AI-backed services.**  
-I ship backend & DevOps work that turns ideas into fast, production-ready systems.  
-**Open to UK internships** (Backend/Platform/Infra).
+# Hey, I’m Yuki 👋  
+**Building fast, reliable, AI-backed systems that actually scale.**  
+I do backend + DevOps work that turns rough ideas into production-grade software.  
+**Open to UK internships** — Backend / Platform / Infra.
 
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:hello@catyuki.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/tingzhanghuang/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-success)](https://cdn.catyuki.com/personal/cv.pdf)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=outlook)](mailto:hello@catyuki.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin)](https://www.linkedin.com/in/tingzhanghuang/)
+[![Resume](https://img.shields.io/badge/Resume-View-success?logo=readthedocs)](https://cdn.catyuki.com/personal/cv.pdf)
 
 ---
 
-## 🚀 What I bring
-- Designed and shipped **LLM-backed advice service** with WebSocket **streaming** responses (p95 < 200ms under load).
-- Built **Go + Gin** microservices with **GORM** & **Atlas migrations**, CI/CD, and blue-green deploys.
-- Hardened edge with **Kong**, **Cloudflare** IP trust chain, and rate limiting; reduced bad traffic by **90%+**.
-- Container-first mindset: **Docker**, **K8s**, HPA, observability, and on-call friendliness.
+## ⚙️ What I Build
+- 🧠 **LLM-backed advice engine** with WebSocket **streaming** responses — p95 < 200 ms under load  
+- 🧩 **Go + Gin microservices** with GORM, Atlas migrations, CI/CD, and blue-green deploys  
+- 🛡️ Edge hardened with **Kong**, **Cloudflare** IP trust chain, and rate limiting → cut bad traffic by **90%+**  
+- 🐳 **Container-first everything:** Docker, K8s, HPA, observability, and on-call readiness  
 
 ---
 
@@ -45,10 +45,10 @@ I ship backend & DevOps work that turns ideas into fast, production-ready system
 
 ---
 
-## 📬 Get in touch
-- ✉️ hello [at] catyuki [dot] com
-- 💼 UK internship roles (Backend / Platform / AI Infra)
-- 🗓️ Timezone: UK-friendly hours
+## 📬 Get in Touch
+- ✉️ hello [at] catyuki [dot] com  
+- 💼 Looking for UK internship roles (Backend / Platform / AI Infra)  
+- 🕰️ Timezone: UK-friendly hours  
 
 ---
 
