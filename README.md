@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Hey, I’m Yuki 👋  
+# Hey, I’m binaryYuki 👋  
 **Building fast, reliable, AI-backed systems that actually scale.**  
 I do backend + DevOps work that turns rough ideas into production-grade software.  
 **Open to UK internships** — Backend / Platform / Infra.
