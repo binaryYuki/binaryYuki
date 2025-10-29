@@ -26,7 +26,7 @@ I do backend + DevOps work that turns rough ideas into production-grade software
   alt="Tech stack icons" 
 /> -->
   <div style="text-align: center; margin: 20px 0;">
-  <img src="./img/skills.svg" alt="Tech stack icons" width="650" height="auto" />
+  <img src="./skills.svg" alt="Tech stack icons" width="500" height="auto" />
 </div>
 
 </p>
