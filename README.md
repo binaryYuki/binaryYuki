@@ -36,14 +36,24 @@ I do backend + DevOps work that turns rough ideas into production-grade software
 ## 📈 Activity & Stats
 <p align="left">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=binaryyuki&show_icons=true&theme=radical&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=binaryyuki&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
+    <source srcset="./profile/stats.svg" media="(prefers-color-scheme: dark)" />
+    <img
+      src="./profile/stats.svg"
+      alt="GitHub stats"
+      height="160"
+    />
   </picture>
+
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyuki&layout=compact&theme=radical&hide_border=true&hide=html,css" media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyuki&layout=compact&hide_border=true&hide=html,css" alt="Top languages" height="160"/>
+    <source srcset="./profile/top-langs.svg" media="(prefers-color-scheme: dark)" />
+    <img
+      src="./profile/top-langs.svg"
+      alt="Top languages"
+      height="160"
+    />
   </picture>
 </p>
+
 
 <details>
   <summary>Contribution graph</summary>
