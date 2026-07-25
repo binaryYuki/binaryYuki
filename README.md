@@ -36,7 +36,7 @@ I do backend + DevOps work that turns rough ideas into production-grade software
 ## 📈 Activity & Stats
 <p align="left">
   <picture>
-    <source srcset="./profile/stats.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-stats-extended.vercel.app/api?username=binaryyuki&theme=radical" media="(prefers-color-scheme: dark)" />
     <img
       src="./profile/stats.svg"
       alt="GitHub stats"
