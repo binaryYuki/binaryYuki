@@ -36,13 +36,17 @@ I do backend + DevOps work that turns rough ideas into production-grade software
 ## 📈 Activity & Stats
 <p align="left">
   <picture>
-    <source srcset="https://github-stats-extended.vercel.app/api?username=binaryyuki&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=binaryyuki&theme=radical"
+    />
     <img
       src="./profile/stats.svg"
       alt="GitHub stats"
       height="160"
     />
   </picture>
+</p>
 
   <picture>
     <source srcset="./profile/top-langs.svg" media="(prefers-color-scheme: dark)" />
