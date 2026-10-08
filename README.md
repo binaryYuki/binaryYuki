@@ -40,8 +40,12 @@ I do backend + DevOps work that turns rough ideas into production-grade software
       media="(prefers-color-scheme: dark)"
       srcset="https://github-stats-extended.vercel.app/api?username=binaryyuki&theme=radical"
     />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api?username=binaryyuki&theme=default"
+    />
     <img
-      src="./profile/stats.svg"
+      src="https://github-stats-extended.vercel.app/api?username=binaryyuki&theme=default"
       alt="GitHub stats"
       height="160"
     />
