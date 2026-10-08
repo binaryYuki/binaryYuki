@@ -7,7 +7,7 @@ I do backend + DevOps work that turns rough ideas into production-grade software
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?logo=outlook)](mailto:hello@catyuki.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin)](https://www.linkedin.com/in/tingzhanghuang/)
-[![Resume](https://img.shields.io/badge/Resume-View-success?logo=readthedocs)](https://cdn.catyuki.com/personal/cv.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-success?logo=readthedocs)](https://oss.catyuki.com/cv.pdf)
 
 ---
 
@@ -68,8 +68,8 @@ I do backend + DevOps work that turns rough ideas into production-grade software
 
 ## 📬 Get in Touch
 - ✉️ hello [at] catyuki [dot] com  
-- 💼 Looking for UK internship roles (Backend / Platform / AI Infra)  
-- 🕰️ Timezone: UK-friendly hours  
+- 💼 Looking for UK/Malta graduate roles (Backend / Platform / AI Infra)  
+- 🕰️ Timezone: Europe/London  
 
 ---
 
